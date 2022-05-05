@@ -1,3 +1,2 @@
 # typescriptOOPS
-
-Concept of Object Oriented Programming using TypeScript.
+Concepts and Implementation of Object Oriented Programming using TypeScript.
